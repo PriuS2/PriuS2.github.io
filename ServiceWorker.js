@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Mabi-1.0";
 const contentToCache = [
-    "Build/MabiTest.loader.js",
-    "Build/MabiTest.framework.js.br",
-    "Build/MabiTest.data.br",
-    "Build/MabiTest.wasm.br",
+    "Build/PriuS2.github.io.loader.js",
+    "Build/PriuS2.github.io.framework.js.unityweb",
+    "Build/PriuS2.github.io.data.unityweb",
+    "Build/PriuS2.github.io.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
