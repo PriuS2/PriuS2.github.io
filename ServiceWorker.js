@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Mabi-1.0";
 const contentToCache = [
     "Build/PriuS2.github.io.loader.js",
-    "Build/PriuS2.github.io.framework.js.unityweb",
-    "Build/PriuS2.github.io.data.unityweb",
-    "Build/PriuS2.github.io.wasm.unityweb",
+    "Build/PriuS2.github.io.framework.js",
+    "Build/PriuS2.github.io.data",
+    "Build/PriuS2.github.io.wasm",
     "TemplateData/style.css"
 
 ];
