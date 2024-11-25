@@ -1,1 +1,1 @@
-# PriuS2.github.io
+https://github.com/jeffreytse/jekyll-theme-yat?ref=jekyll-themes.com
